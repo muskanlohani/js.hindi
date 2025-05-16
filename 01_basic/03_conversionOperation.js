@@ -21,7 +21,35 @@
 1=>true 0=>false   ""=>false  "muskan"=>true
 
 */ 
-let num=33
-let stringnum=String(num)
-console.log(stringnum)
-console.log(typeof stringnum)
+// let num=33
+// let stringnum=String(num)
+// console.log(stringnum)
+// console.log(typeof stringnum)
+//************************ OPERATION***************** 
+
+// let v=3
+// let negvalve=-v
+// // console.log(negvalve);
+
+
+
+// console.log(2+2);
+// console.log(2-4);
+// console.log(7*8)
+// console.log(6/6)
+// console.log(2**3)
+
+// console.log(9%2)
+let n="hello"
+let m=" muskan"
+let num=n+m
+console.log(num);
+
+
+// console.log("1"+3);
+// // console.log(1+"3")
+// // console.log("8"+"3")
+
+
+
+
